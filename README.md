@@ -1,0 +1,2 @@
+# standartica.github
+Разработка ПО
